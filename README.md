@@ -1,2 +1,1 @@
-# React-OmniStack-Example-master
- 🚀 Um evento para você conhecer na prática o poder do Node.js, ReactJS, React Native
+# Um evento para você conhecer na prática o poder do Node.js, ReactJS, React Native e levar suas aplicações e sua carreira de programador para o próximo nível!
