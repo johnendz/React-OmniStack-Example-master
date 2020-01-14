@@ -2,7 +2,7 @@
 ## Um projeto para você conhecer na prática o poder do Node.js, ReactJS, React Native e levar suas aplicações e sua carreira de programador para o próximo nível!
 
 
-<img align="left" width="442" height="485" src="https://rocketseat.com.br/static/images/week/phone.svg">
+<img align="left" width="442" height="485" src="phone.svg">
 
 ## O que você vai aprender?
 
