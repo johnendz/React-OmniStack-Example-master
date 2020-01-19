@@ -14,4 +14,4 @@ Tecnologias e Frameworks usados são
 * [React](https://pt-br.reactjs.org) Uma biblioteca JavaScript para criar interfaces de usuário.
 * [React Native](https://facebook.github.io/react-native/) Um framework para criar aplicativos nativos usando o React.
 
-> O projeto teve uma duração de 7 dias, começando em 13 de janeiro de 2020 e finalizado em 19 de janeiro de 2020.
+> O projeto teve uma duração de 6 dias, começando em 13 de janeiro de 2020 e finalizado em 19 de janeiro de 2020.
