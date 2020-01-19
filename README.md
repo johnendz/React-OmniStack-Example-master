@@ -1,13 +1,13 @@
-# Um projeto utilizando o poder do Node.js, ReactJS, React Native.
+# Um projeto utilizando Node.js, ReactJS, React Native.
 
 <img align="left" width="442" height="485" src="phone.svg">
 
 ## Requerimentos
 
-* [NPM](https://www.npmjs.com)
-* [Nodejs](https://nodejs.org)
+  * [NPM](https://www.npmjs.com)
+  * [Nodejs](https://nodejs.org)
 
-Com esse projeto você vai descobrir na prática porque essas tecnologias fazem tanto sentido juntas, construindo do zero uma aplicação completa com Node.js no back-end, ReactJS no front-end e React Native no mobile.
+Esse é um projeto para localizar desenvolvedores com base na sua localização atual, contendo alguns filtros, limite de 10km do seu local atual, e buscar devs por tecnologias, com atualização no mapa de novos devs em tempo-real.
 
 Tecnologias e Frameworks usados são
 
