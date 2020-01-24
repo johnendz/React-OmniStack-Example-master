@@ -1,6 +1,6 @@
 # Um projeto utilizando Node.js, ReactJS, React Native.
 
-<img align="left" width="200" src="https://media.giphy.com/media/KyTenKoKrHMGyeAYyb/giphy.gif">
+<img align="left" width="165" src="https://media.giphy.com/media/KyTenKoKrHMGyeAYyb/giphy.gif">
 
 ## Requerimentos
 
