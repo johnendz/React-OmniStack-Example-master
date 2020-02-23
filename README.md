@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" src="https://github.com/johnendz/React-OmniStack-Example/raw/master/logo.svg?sanitize=true" width="250px" />
+    <img alt="DevRadar" src="https://i.imgur.com/POVtFk8.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" width="165" src="https://github.com/johnendz/React-OmniStack-Example/raw/master/devradar.webp">
+  <img alt="Frontend" width="165" src="https://raw.githubusercontent.com/johnendz/React-OmniStack-Example/master/mobile/assets/example.gif">
 </p>
 
 ## :rocket: Tecnologias
